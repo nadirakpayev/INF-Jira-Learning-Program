@@ -14,7 +14,7 @@
 
 ## Что нужно сделать
 
-1. Откройте файл [CMDB_Test_Data_Reference.md](/Users/nadir/Documents/Codex%20Projects/Inf%20Jira%20Getting%20Started/INF%20Learning%20Programm/CMDB_Test_Data_Reference.md).
+1. Откройте файл [CMDB_Test_Data_Reference.md](CMDB_Test_Data_Reference.md).
 2. Изучите структуру учебного датасета:
    - сервисы;
    - системы;

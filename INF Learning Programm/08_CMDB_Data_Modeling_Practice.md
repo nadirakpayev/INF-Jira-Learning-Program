@@ -15,7 +15,7 @@
 ## Что нужно сделать
 
 1. Спроектируйте концептуальную модель CMDB как набор сущностей и связей.
-2. Используйте данные из файла [CMDB_Test_Data_Reference.md](/Users/nadir/Documents/Codex%20Projects/Inf%20Jira%20Getting%20Started/INF%20Learning%20Programm/CMDB_Test_Data_Reference.md) как базовый учебный датасет.
+2. Используйте данные из файла [CMDB_Test_Data_Reference.md](CMDB_Test_Data_Reference.md) как базовый учебный датасет.
 3. Определите минимум следующие сущности:
    - сервис;
    - система;

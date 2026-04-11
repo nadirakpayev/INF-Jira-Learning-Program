@@ -10,7 +10,7 @@
 
 ## Что нужно показать экзаменатору
 
-1. Файл [CMDB_Test_Data_Reference.md](/Users/nadir/Documents/Codex%20Projects/Inf%20Jira%20Getting%20Started/INF%20Learning%20Programm/CMDB_Test_Data_Reference.md).
+1. Файл [CMDB_Test_Data_Reference.md](CMDB_Test_Data_Reference.md).
 2. Логику его структуры:
    - сервисы;
    - системы;
@@ -20,8 +20,8 @@
    - рабочие группы;
    - технологические окна.
 3. Как эти данные будут использоваться в:
-   - [08_CMDB_Data_Modeling_Practice.md](/Users/nadir/Documents/Codex%20Projects/Inf%20Jira%20Getting%20Started/INF%20Learning%20Programm/08_CMDB_Data_Modeling_Practice.md);
-   - [09_CMDB_PostgreSQL_pgAdmin_Practice.md](/Users/nadir/Documents/Codex%20Projects/Inf%20Jira%20Getting%20Started/INF%20Learning%20Programm/09_CMDB_PostgreSQL_pgAdmin_Practice.md).
+   - [08_CMDB_Data_Modeling_Practice.md](08_CMDB_Data_Modeling_Practice.md);
+   - [09_CMDB_PostgreSQL_pgAdmin_Practice.md](09_CMDB_PostgreSQL_pgAdmin_Practice.md).
 4. Почему датасет можно считать реалистичным и пригодным для учебной проверки.
 
 ## Формат сдачи
