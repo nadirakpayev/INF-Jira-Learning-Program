@@ -181,3 +181,73 @@
 
 Углубиться:
 - [pgAdmin docs](https://www.pgadmin.org/docs/pgadmin4/latest/index.html)
+
+## 26. Client
+
+Программа или часть системы, которая инициирует запрос и ожидает ответ от другой системы.
+
+Углубиться:
+- [Client-server overview](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview)
+
+## 27. Server
+
+Часть системы, которая принимает запрос, выполняет логику и возвращает ответ.
+
+Углубиться:
+- [Client-server overview](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview)
+
+## 28. Browser
+
+Приложение-клиент, которое получает веб-страницы, интерпретирует HTML, строит DOM и показывает интерфейс пользователю.
+
+Углубиться:
+- [How the web works](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)
+
+## 29. HTTP request
+
+Сообщение от клиента к серверу, в котором указано, что именно нужно получить или изменить.
+
+Углубиться:
+- [HTTP messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Messages)
+
+## 30. HTTP response
+
+Сообщение от сервера к клиенту с результатом обработки запроса.
+
+Углубиться:
+- [HTTP messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Messages)
+
+## 31. HTTP method
+
+Часть запроса, которая показывает, какое действие клиент хочет выполнить над ресурсом: получить, создать, изменить или удалить данные.
+
+Углубиться:
+- [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
+
+## 32. HTTP status code
+
+Числовой код в ответе сервера, который показывает результат обработки запроса.
+
+Углубиться:
+- [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
+
+## 33. HTML
+
+Язык разметки, с помощью которого описывается структура веб-страницы.
+
+Углубиться:
+- [Basic HTML syntax](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
+
+## 34. DOM
+
+Внутреннее представление HTML-документа в памяти браузера, с которым может работать JavaScript.
+
+Углубиться:
+- [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
+## 35. API
+
+Набор правил и точек взаимодействия, через которые одна система может запрашивать или передавать данные другой системе.
+
+Углубиться:
+- [What is an API?](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview)

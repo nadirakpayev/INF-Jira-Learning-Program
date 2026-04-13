@@ -9,7 +9,7 @@
 ```mermaid
 flowchart TB
     S["Start Here for Candidate"]
-    M["Main Route: INF Learning Programm"]
+    M["Main Route: INF Learning Program"]
     B1["Block 1\nEnvironment and Core Processes"]
     B2["Block 2\nCMDB Test Data"]
     B3["Block 3\nCMDB Data Model and Advanced ITSM"]
@@ -31,15 +31,15 @@ flowchart TB
     B4 -. "required if client-server / HTTP / DOM base is weak" .-> DEV
     B4 -. "use as glossary and reference" .-> KB
 
-    click S "Start%20Here%20for%20Candidate.md" "Open start file"
-    click M "INF%20Learning%20Programm/README.md" "Open main route"
-    click B1 "INF%20Learning%20Programm/Block%201/01_Setup_Atlassian_Cloud.md" "Open Block 1"
-    click B2 "INF%20Learning%20Programm/Block%202/07_CMDB_Test_Data_Practice.md" "Open Block 2"
-    click B3 "INF%20Learning%20Programm/Block%203/08_CMDB_Data_Modeling_Practice.md" "Open Block 3"
-    click B4 "INF%20Learning%20Programm/Block%204/15_Availability_Management_Practice.md" "Open Block 4"
-    click DB "DataBase%20Fundamentals/README.md" "Open DataBase Fundamentals"
-    click DEV "Developers%20Theory%20Fundamentals/README.md" "Open Developers Theory Fundamentals"
-    click KB "Knowledge%20Base/README.md" "Open Knowledge Base"
+    click S "https://github.com/nadirakpayev/INF-Jira-Learning-Program/blob/main/Start%20Here%20for%20Candidate.md" "Open start file"
+    click M "https://github.com/nadirakpayev/INF-Jira-Learning-Program/blob/main/INF%20Learning%20Program/README.md" "Open main route"
+    click B1 "https://github.com/nadirakpayev/INF-Jira-Learning-Program/blob/main/INF%20Learning%20Program/Block%201/01_Setup_Atlassian_Cloud.md" "Open Block 1"
+    click B2 "https://github.com/nadirakpayev/INF-Jira-Learning-Program/blob/main/INF%20Learning%20Program/Block%202/07_CMDB_Test_Data_Practice.md" "Open Block 2"
+    click B3 "https://github.com/nadirakpayev/INF-Jira-Learning-Program/blob/main/INF%20Learning%20Program/Block%203/08_CMDB_Data_Modeling_Practice.md" "Open Block 3"
+    click B4 "https://github.com/nadirakpayev/INF-Jira-Learning-Program/blob/main/INF%20Learning%20Program/Block%204/15_Availability_Management_Practice.md" "Open Block 4"
+    click DB "https://github.com/nadirakpayev/INF-Jira-Learning-Program/blob/main/DataBase%20Fundamentals/README.md" "Open DataBase Fundamentals"
+    click DEV "https://github.com/nadirakpayev/INF-Jira-Learning-Program/blob/main/Developers%20Theory%20Fundamentals/README.md" "Open Developers Theory Fundamentals"
+    click KB "https://github.com/nadirakpayev/INF-Jira-Learning-Program/blob/main/Knowledge%20Base/README.md" "Open Knowledge Base"
 ```
 
 Если ваш просмотрщик Markdown не делает узлы диаграммы кликабельными, используйте ссылки ниже.
@@ -48,11 +48,11 @@ flowchart TB
 
 ### Основной маршрут
 
-- [INF Learning Programm/README.md](INF%20Learning%20Programm/README.md) — главный маршрут программы.
-- [Block 1](INF%20Learning%20Programm/Block%201/01_Setup_Atlassian_Cloud.md) — создание среды и базовые процессы.
-- [Block 2](INF%20Learning%20Programm/Block%202/07_CMDB_Test_Data_Practice.md) — тестовые данные CMDB.
-- [Block 3](INF%20Learning%20Programm/Block%203/08_CMDB_Data_Modeling_Practice.md) — модель данных CMDB, PostgreSQL и расширенные ITSM-процессы.
-- [Block 4](INF%20Learning%20Programm/Block%204/15_Availability_Management_Practice.md) — доступность и проектирование интеграций.
+- [INF Learning Program/README.md](INF%20Learning%20Program/README.md) — главный маршрут программы.
+- [Block 1](INF%20Learning%20Program/Block%201/01_Setup_Atlassian_Cloud.md) — создание среды и базовые процессы.
+- [Block 2](INF%20Learning%20Program/Block%202/07_CMDB_Test_Data_Practice.md) — тестовые данные CMDB.
+- [Block 3](INF%20Learning%20Program/Block%203/08_CMDB_Data_Modeling_Practice.md) — модель данных CMDB, PostgreSQL и расширенные ITSM-процессы.
+- [Block 4](INF%20Learning%20Program/Block%204/15_Availability_Management_Practice.md) — доступность и проектирование интеграций.
 
 ### Параллельные треки
 
@@ -63,13 +63,13 @@ flowchart TB
 ## Что является основным маршрутом
 
 Основной трек:
-- [INF Learning Programm/README.md](INF%20Learning%20Programm/README.md)
+- [INF Learning Program/README.md](INF%20Learning%20Program/README.md)
 
 Именно этот трек нужно проходить как главный.
 
 ## Рекомендуемый порядок
 
-1. Откройте [INF Learning Programm/README.md](INF%20Learning%20Programm/README.md).
+1. Откройте [INF Learning Program/README.md](INF%20Learning%20Program/README.md).
 2. Идите по блокам строго по порядку.
 3. Если на каком-то этапе не хватает базы по данным, откройте [DataBase Fundamentals/README.md](DataBase%20Fundamentals/README.md).
 4. Если не хватает базовой веб-теории, откройте [Developers Theory Fundamentals/README.md](Developers%20Theory%20Fundamentals/README.md).
@@ -85,4 +85,4 @@ flowchart TB
 ## Коротко
 
 Если нужно выбрать один файл для старта:
-- начните с [INF Learning Programm/README.md](INF%20Learning%20Programm/README.md)
+- начните с [INF Learning Program/README.md](INF%20Learning%20Program/README.md)

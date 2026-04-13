@@ -1,6 +1,6 @@
 # Базовые ресурсы
 
-Ниже собраны материалы, которые стоит изучить до начала или во время `Блока 1` и раннего `Блока 2`.
+Ниже собраны материалы, которые стоит изучить до начала или во время `Block 1` и раннего `Block 2` основного трека, а также перед входом в `DataBase Fundamentals` и `Developers Theory Fundamentals`, если не хватает базы.
 
 ## 1. Что такое Jira Service Management Cloud
 
@@ -100,7 +100,33 @@
 - pgAdmin getting started:
   [pgAdmin](https://www.pgadmin.org/docs/pgadmin4/latest/getting_started.html)
 
-## 9. Что читать в первую очередь
+## 9. Реляционные БД и SQL — база
+
+- Вводная по базам данных и СУБД:
+  [SQL Academy](https://sql-academy.org/ru/guide/basic-database-concepts)
+- Что такое реляционные базы данных:
+  [SQL Academy](https://sql-academy.org/ru/guide/relation-databases)
+- Как устроена реляционная база:
+  [SQL Academy](https://sql-academy.org/ru/guide/structure-of-relation-databases)
+- Вводная по SQL:
+  [SQL Academy](https://sql-academy.org/ru/guide/intro-sql)
+- Основы `INNER JOIN`:
+  [SQL Academy](https://sql-academy.org/ru/guide/inner-join)
+- Подзапросы:
+  [SQL Academy](https://sql-academy.org/ru/guide/nested-sql-queries)
+
+## 10. Базовая веб-теория
+
+- Что такое HTTP:
+  [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- Введение в DOM:
+  [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- Базовый синтаксис HTML:
+  [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax)
+- Клиент и сервер в вебе:
+  [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview)
+
+## 11. Что читать в первую очередь
 
 Минимальный маршрут:
 1. Jira Service Management overview
@@ -109,3 +135,5 @@
 4. components + forms + fields
 5. queues + SLA + approvals + automation
 6. PostgreSQL + pgAdmin basics
+7. база по реляционным БД и SQL, если впереди `Block 3`
+8. база по HTTP / HTML / DOM, если впереди `Block 4`

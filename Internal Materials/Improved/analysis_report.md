@@ -5,8 +5,8 @@
 ### Что является рабочим candidate-facing контуром
 
 Основной рабочий контур программы находится в:
-- `INF Learning Programm/README.md`
-- файлах блоков внутри `INF Learning Programm/Block 1/`, `INF Learning Programm/Block 2/`, `INF Learning Programm/Block 3/` и `INF Learning Programm/Block 4/`
+- `INF Learning Program/README.md`
+- файлах блоков внутри `INF Learning Program/Block 1/`, `INF Learning Program/Block 2/`, `INF Learning Program/Block 3/` и `INF Learning Program/Block 4/`
 - `Internal Materials/00_Examiner_Methodical_Guide.md`
 
 ### Что не входит в анализ как часть задания

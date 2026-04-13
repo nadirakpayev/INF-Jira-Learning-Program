@@ -1,6 +1,6 @@
 # Продвинутые ресурсы
 
-Ниже материалы для углубления после освоения базы. Они особенно полезны для `Блока 2`, `Блока 3` и `Блока 4`.
+Ниже материалы для углубления после освоения базы. Они особенно полезны для `Block 2`, `Block 3` и `Block 4` основного трека.
 
 ## 1. Major Incident и современный incident management
 
@@ -87,7 +87,18 @@
 - Getting started:
   [pgAdmin](https://www.pgadmin.org/docs/pgadmin4/latest/getting_started.html)
 
-## 9. Что читать после базы
+## 9. HTTP, API и обмен данными
+
+- Обзор HTTP:
+  [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- HTTP-запросы:
+  [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Messages)
+- HTTP-методы:
+  [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods)
+- HTTP-коды статуса:
+  [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status)
+
+## 10. Что читать после базы
 
 Рекомендуемый маршрут:
 1. major incident
@@ -96,3 +107,4 @@
 4. forms advanced
 5. SLA/SLO/SLI
 6. PostgreSQL constraints and database design
+7. HTTP, API and data exchange

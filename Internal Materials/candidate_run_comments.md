@@ -5,8 +5,8 @@
 Основные материалы, которые выглядят относящимися к прохождению задания:
 
 - `README.md` в корне
-- `INF Learning Programm/README.md`
-- все практические задания в `INF Learning Programm/Block 1/`, `INF Learning Programm/Block 2/`, `INF Learning Programm/Block 3/` и `INF Learning Programm/Block 4/`
+- `INF Learning Program/README.md`
+- все практические задания в `INF Learning Program/Block 1/`, `INF Learning Program/Block 2/`, `INF Learning Program/Block 3/` и `INF Learning Program/Block 4/`
 - теоретические треки:
   - `Knowledge Base/`
   - `DataBase Fundamentals/`
@@ -16,7 +16,7 @@
 Как это, вероятно, используется кандидатом:
 
 - кандидат почти наверняка начинает с `README.md` в корне;
-- затем переходит в `INF Learning Programm/README.md`, потому что там явно написано, что это основной трек;
+- затем переходит в `INF Learning Program/README.md`, потому что там явно написано, что это основной трек;
 - параллельно может открывать `Knowledge Base`, `DataBase Fundamentals` и `Developers Theory Fundamentals`, если чувствует нехватку базы;
 - `Source Docs/` и `Scripts Examples/` физически лежат в проекте и могут визуально отвлекать, даже если текстом сказано, что они не основной контур.
 
@@ -25,10 +25,10 @@
 Вероятный путь прохождения:
 
 1. Открыть `README.md` в корне.
-2. Понять, что главный маршрут — `INF Learning Programm`.
-3. Открыть `INF Learning Programm/README.md`.
-4. Начать с `INF Learning Programm/Block 1/01_Setup_Atlassian_Cloud.md`.
-5. Идти по файлам блока 1 по порядку до `INF Learning Programm/Block 1/06_Block_1_Final_Workshop.md`.
+2. Понять, что главный маршрут — `INF Learning Program`.
+3. Открыть `INF Learning Program/README.md`.
+4. Начать с `INF Learning Program/Block 1/01_Setup_Atlassian_Cloud.md`.
+5. Идти по файлам блока 1 по порядку до `INF Learning Program/Block 1/06_Block_1_Final_Workshop.md`.
 6. Перейти к блоку 2 с данными `CMDB`.
 7. Перейти к блоку 3, где уже требуются моделирование данных и локальная `PostgreSQL`.
 8. При необходимости параллельно читать `DataBase Fundamentals/README.md`.
@@ -39,13 +39,13 @@
 
 - у основного трека есть понятная стартовая точка;
 - блоки перечислены по порядку;
-- внутри `INF Learning Programm/README.md` хорошо видно, какие задания относятся к какому блоку;
+- внутри `INF Learning Program/README.md` хорошо видно, какие задания относятся к какому блоку;
 - параллельные теоретические треки в корневом `README` названы прямо.
 
 Где логика уже не до конца ясна:
 
-- есть несколько candidate-looking контуров: `INF Learning Programm`, `Knowledge Base`, `DataBase Fundamentals`, `Developers Theory Fundamentals`, `Improved`;
-- есть несколько candidate-facing папок: `INF Learning Programm`, `Knowledge Base`, `DataBase Fundamentals`, `Developers Theory Fundamentals`;
+- есть несколько candidate-looking контуров: `INF Learning Program`, `Knowledge Base`, `DataBase Fundamentals`, `Developers Theory Fundamentals`, `Improved`;
+- есть несколько candidate-facing папок: `INF Learning Program`, `Knowledge Base`, `DataBase Fundamentals`, `Developers Theory Fundamentals`;
 - из позиции кандидата не до конца ясно, что обязательно, а что поддерживающее;
 - в основном треке не видно единого формата сдачи, хотя в `Improved` он есть;
 - финальные workshops объявлены, но нет одного общего понятного правила, что именно я должен подготовить к каждому.
@@ -60,7 +60,7 @@
 - какой из треков основной.
 
 Что мне понятно:
-- основной трек — `INF Learning Programm`;
+- основной трек — `INF Learning Program`;
 - `DataBase Fundamentals` и `Developers Theory Fundamentals` — параллельные;
 - `Knowledge Base` — дополнительный слой теории.
 
@@ -71,9 +71,9 @@
 - решить, что нужно изучить вообще все папки подряд до старта практики.
 
 Какой вопрос у меня бы возник:
-- "Мне проходить только `INF Learning Programm` или еще и все параллельные треки сразу?"
+- "Мне проходить только `INF Learning Program` или еще и все параллельные треки сразу?"
 
-### Шаг 2. `INF Learning Programm/README.md`
+### Шаг 2. `INF Learning Program/README.md`
 
 Что я как кандидат пытаюсь понять:
 - как выглядит путь от начала до конца;
@@ -291,18 +291,18 @@
 | Файл | Раздел | Проблема | Критичность | Почему это мешает |
 |---|---|---|---|---|
 | `README.md` | Главный маршрут / Дополнительные контуры | В проекте несколько candidate-facing путей: основной трек и несколько параллельных треков | medium | Кандидат может не сразу понять, что является основным, а что поддерживающим |
-| `INF Learning Programm/README.md` | Как работать с программой | Нет единого candidate-facing формата сдачи по блокам | high | Неясно, что именно нужно прикладывать как результат |
-| `INF Learning Programm/README.md` | Блок 4 | Блок 4 назван частично опциональным, но критерии включенности не описаны | medium | Кандидат не понимает, обязан ли он его делать |
-| `INF Learning Programm/Block 1/01_Setup_Atlassian_Cloud.md` | Шаги 5-7 | Не до конца ясно, нужно ли реально создавать пользователей или достаточно матрицы ролей | medium | Есть риск лишней траты времени или неполного выполнения |
-| `INF Learning Programm/Block 1/01_Setup_Atlassian_Cloud.md` | Шаг 11 / Критерии приемки | Выдача доступа зависит от внешнего email от лида, даже с fallback | medium | Появляется внешний фактор, который кандидат контролирует не полностью |
-| `INF Learning Programm/Block 1/02_Service_Catalog_Practice.md` | Реестр связей / карта каталога | Неясен формат артефакта и степень реализации в Jira | medium | Кандидат может сделать только описание или только настройку, не угадать баланс |
-| `INF Learning Programm/Block 1/03_Incident_Management_Practice.md` | Статусы / формы / автоматика | Неясно, можно ли разумно упрощать перечисленную модель | high | Есть риск переусложнить решение или наоборот упростить “не туда” |
-| `INF Learning Programm/Block 1/05_Block_1_SLA_and_Queues_Practice.md` | Перечни очередей | Неясно, список очередей обязательный или примерный | medium | Кандидат может делать искусственные очереди ради соответствия тексту |
-| `INF Learning Programm/Block 1/06_Block_1_Final_Workshop.md` | Формат сдачи | Формат “демонстрация или отчет” слишком свободный | high | Разные кандидаты сдадут несопоставимые результаты |
-| `INF Learning Programm/Block 2/07_CMDB_Test_Data_Practice.md` | Цель / артефакты | Отдельный workshop по датасету выглядит слабо обоснованным для кандидата | medium | Возникает ощущение дополнительного ритуального шага |
-| `INF Learning Programm/Block 3/08_CMDB_Data_Modeling_Practice.md` | ER-диаграмма / нормализация | Нет шаблона минимального результата | medium | Кандидат лучше понимает нижнюю границу, но все еще может сомневаться в глубине модели |
-| `INF Learning Programm/Block 3/09_CMDB_PostgreSQL_pgAdmin_Practice.md` | Артефакты | Неясен точный формат сдачи БД-части | high | Можно сделать рабочую БД, но сдать неудобопроверяемо |
-| `INF Learning Programm/Block 4/18_Block_4_Final_Workshop.md` | Формат блока | Опциональность блока не сведена к четкому правилу | medium | Кандидат не понимает приоритет по времени |
+| `INF Learning Program/README.md` | Как работать с программой | Нет единого candidate-facing формата сдачи по блокам | high | Неясно, что именно нужно прикладывать как результат |
+| `INF Learning Program/README.md` | Блок 4 | Блок 4 назван частично опциональным, но критерии включенности не описаны | medium | Кандидат не понимает, обязан ли он его делать |
+| `INF Learning Program/Block 1/01_Setup_Atlassian_Cloud.md` | Шаги 5-7 | Не до конца ясно, нужно ли реально создавать пользователей или достаточно матрицы ролей | medium | Есть риск лишней траты времени или неполного выполнения |
+| `INF Learning Program/Block 1/01_Setup_Atlassian_Cloud.md` | Шаг 11 / Критерии приемки | Выдача доступа зависит от внешнего email от лида, даже с fallback | medium | Появляется внешний фактор, который кандидат контролирует не полностью |
+| `INF Learning Program/Block 1/02_Service_Catalog_Practice.md` | Реестр связей / карта каталога | Неясен формат артефакта и степень реализации в Jira | medium | Кандидат может сделать только описание или только настройку, не угадать баланс |
+| `INF Learning Program/Block 1/03_Incident_Management_Practice.md` | Статусы / формы / автоматика | Неясно, можно ли разумно упрощать перечисленную модель | high | Есть риск переусложнить решение или наоборот упростить “не туда” |
+| `INF Learning Program/Block 1/05_Block_1_SLA_and_Queues_Practice.md` | Перечни очередей | Неясно, список очередей обязательный или примерный | medium | Кандидат может делать искусственные очереди ради соответствия тексту |
+| `INF Learning Program/Block 1/06_Block_1_Final_Workshop.md` | Формат сдачи | Формат “демонстрация или отчет” слишком свободный | high | Разные кандидаты сдадут несопоставимые результаты |
+| `INF Learning Program/Block 2/07_CMDB_Test_Data_Practice.md` | Цель / артефакты | Отдельный workshop по датасету выглядит слабо обоснованным для кандидата | medium | Возникает ощущение дополнительного ритуального шага |
+| `INF Learning Program/Block 3/08_CMDB_Data_Modeling_Practice.md` | ER-диаграмма / нормализация | Нет шаблона минимального результата | medium | Кандидат лучше понимает нижнюю границу, но все еще может сомневаться в глубине модели |
+| `INF Learning Program/Block 3/09_CMDB_PostgreSQL_pgAdmin_Practice.md` | Артефакты | Неясен точный формат сдачи БД-части | high | Можно сделать рабочую БД, но сдать неудобопроверяемо |
+| `INF Learning Program/Block 4/18_Block_4_Final_Workshop.md` | Формат блока | Опциональность блока не сведена к четкому правилу | medium | Кандидат не понимает приоритет по времени |
 | `DataBase Fundamentals/README.md` | Роль трека | Не указано, обязателен ли трек перед блоком 3 или просто рекомендован | medium | Кандидат может поздно понять, что базы по SQL ему не хватает |
 | `Developers Theory Fundamentals/README.md` | Роль трека | Нет привязки к конкретным блокам основной программы | low | Полезный трек есть, но неясно, когда именно его лучше пройти |
 | `Improved/README.md` | Весь файл | Пакет выглядит более четким и candidate-ready, чем основной трек | high | У кандидата возникает вопрос, почему выдан не этот контур |
@@ -312,22 +312,22 @@
 | Место | Тип проблемы | Что произойдет с кандидатом | Критичность | Комментарий |
 |---|---|---|---|---|
 | Корневой `README` + параллельные треки | ambiguity | Я могу потратить время на выбор между главным и поддерживающими маршрутами | medium | "Я понимаю, что основной трек один, но хочу яснее видеть, когда открывать параллельные материалы" |
-| `INF Learning Programm/Block 1/01_Setup_Atlassian_Cloud.md` | missing instruction | Я зависну на вопросе про отдельных пользователей и роли | medium | "Мне неясно, что считается достаточной симуляцией ролей" |
-| `INF Learning Programm/Block 1/01_Setup_Atlassian_Cloud.md` | hidden expectation | Я буду ждать email лида ради приемки блока | medium | "Часть результата зависит не только от меня" |
+| `INF Learning Program/Block 1/01_Setup_Atlassian_Cloud.md` | missing instruction | Я зависну на вопросе про отдельных пользователей и роли | medium | "Мне неясно, что считается достаточной симуляцией ролей" |
+| `INF Learning Program/Block 1/01_Setup_Atlassian_Cloud.md` | hidden expectation | Я буду ждать email лида ради приемки блока | medium | "Часть результата зависит не только от меня" |
 | Переход от блока 1 к workshop | missing instruction | Я не пойму, какой именно пакет доказательств готовить | high | "Настроить я могу, но как это правильно сдать — неясно" |
-| `INF Learning Programm/Block 1/03_Incident_Management_Practice.md` | overload | Я могу слишком глубоко закопаться в workflow, статусах и формах | high | "Текст выглядит так, будто надо повторить почти боевой процесс" |
-| `INF Learning Programm/Block 1/05_Block_1_SLA_and_Queues_Practice.md` | ambiguity | Я не пойму, что обязательный минимум, а что пример | medium | "Боюсь упростить и не пройти" |
-| `INF Learning Programm/Block 2/07_CMDB_Test_Data_Practice.md` | motivation drop | Блок выглядит как подготовительный, но у него отдельный workshop | medium | "Кажется, что меня проверяют на ритуалах, а не на результате" |
+| `INF Learning Program/Block 1/03_Incident_Management_Practice.md` | overload | Я могу слишком глубоко закопаться в workflow, статусах и формах | high | "Текст выглядит так, будто надо повторить почти боевой процесс" |
+| `INF Learning Program/Block 1/05_Block_1_SLA_and_Queues_Practice.md` | ambiguity | Я не пойму, что обязательный минимум, а что пример | medium | "Боюсь упростить и не пройти" |
+| `INF Learning Program/Block 2/07_CMDB_Test_Data_Practice.md` | motivation drop | Блок выглядит как подготовительный, но у него отдельный workshop | medium | "Кажется, что меня проверяют на ритуалах, а не на результате" |
 | Переход к `08` и `09` | missing prerequisite | Если я слаб в SQL, я резко упрусь в модель данных и PostgreSQL | high | "Без отдельной DB-базы тут уже легко застрять" |
-| `INF Learning Programm/Block 3/08_CMDB_Data_Modeling_Practice.md` | hidden expectation | Я не знаю, какой уровень ER-модели считается “достаточным” | medium | "Нижняя граница уже понятнее, но все еще хочется шаблон итогового артефакта" |
-| `INF Learning Programm/Block 3/09_CMDB_PostgreSQL_pgAdmin_Practice.md` | missing instruction | Я не понимаю, что именно надо приложить кроме live-показа в `pgAdmin` | high | "Работа сделана, а формат сдачи расплывчатый" |
+| `INF Learning Program/Block 3/08_CMDB_Data_Modeling_Practice.md` | hidden expectation | Я не знаю, какой уровень ER-модели считается “достаточным” | medium | "Нижняя граница уже понятнее, но все еще хочется шаблон итогового артефакта" |
+| `INF Learning Program/Block 3/09_CMDB_PostgreSQL_pgAdmin_Practice.md` | missing instruction | Я не понимаю, что именно надо приложить кроме live-показа в `pgAdmin` | high | "Работа сделана, а формат сдачи расплывчатый" |
 | Блок 4 | broken flow | Я не понимаю, делать его сейчас, потом или можно не делать вообще | medium | "Опциональность есть, но операционного правила нет" |
 | Вся основная программа | hidden expectation | Я чувствую, что оценка есть, но candidate-facing критерии разбросаны и частично скрыты | high | "Мне приходится угадывать, что для вас считается хорошим результатом" |
 
 ## 6. Чего не хватает
 
 - одного candidate-facing файла “что именно выдано кандидату, а что не относится к его контуру”;
-- единого формата сдачи для `INF Learning Programm`, аналогичного `Improved/submission_format.md`;
+- единого формата сдачи для `INF Learning Program`, аналогичного `Improved/submission_format.md`;
 - шаблона workshop-пакета по каждому блоку;
 - короткого FAQ прямо для основной программы;
 - явного разграничения:
@@ -379,14 +379,14 @@
 
 ## 9. Рекомендации по улучшению
 
-- Для `INF Learning Programm` создать свой `submission_format.md` по блокам.
+- Для `INF Learning Program` создать свой `submission_format.md` по блокам.
 - Для каждого финального workshop добавить короткий шаблон:
   - что показать;
   - какие файлы приложить;
   - какие скриншоты обязательны;
   - какой объем текста допустим.
 - Убрать из candidate-facing папки файл экзаменатора или явно пометить его как “не для исполнителя”.
-- Прямо в `INF Learning Programm/README.md` добавить пометки:
+- Прямо в `INF Learning Program/README.md` добавить пометки:
   - `обязательно`;
   - `рекомендуется`;
   - `опционально`.
@@ -414,6 +414,6 @@
 
 Что исправить в первую очередь:
 - зафиксировать один явный кандидатский контур;
-- добавить единый `submission format` для `INF Learning Programm`;
+- добавить единый `submission format` для `INF Learning Program`;
 - нормализовать workshop-артефакты;
 - убрать или изолировать внутренние материалы от candidate-facing маршрута.

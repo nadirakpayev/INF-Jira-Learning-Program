@@ -21,4 +21,4 @@
 
 Кандидатский маршрут начинается из:
 - [../README.md](../README.md)
-- [../INF Learning Programm/README.md](../INF%20Learning%20Programm/README.md)
+- [../INF Learning Program/README.md](../INF%20Learning%20Program/README.md)

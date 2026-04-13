@@ -10,7 +10,7 @@
 ## Главный маршрут
 
 Основной трек репозитория:
-- [INF Learning Programm](INF%20Learning%20Programm/README.md) — главная учебная программа с последовательными блоками практических заданий.
+- [INF Learning Program](INF%20Learning%20Program/README.md) — главная учебная программа с последовательными блоками практических заданий.
 
 Именно этот трек является основным маршрутом прохождения программы.
 
@@ -34,7 +34,7 @@
 ## Что использовать
 
 Если нужен учебный трек:
-- начните с [INF Learning Programm/README.md](INF%20Learning%20Programm/README.md)
+- начните с [INF Learning Program/README.md](INF%20Learning%20Program/README.md)
 
 Если нужно подтянуть именно основы баз данных:
 - начните с [DataBase Fundamentals/README.md](DataBase%20Fundamentals/README.md)
@@ -47,7 +47,7 @@
 
 ## Структура репозитория
 
-- `INF Learning Programm/` — основной практический трек
+- `INF Learning Program/` — основной практический трек
 - `DataBase Fundamentals/` — параллельный трек по базам данных
 - `Developers Theory Fundamentals/` — параллельный трек по базовой теории для разработчика
 - `Knowledge Base/` — дополнительная теоретическая база и словари
@@ -55,7 +55,7 @@
 
 ## Рекомендуемый порядок
 
-1. Начать с [INF Learning Programm/README.md](INF%20Learning%20Programm/README.md) как с главного маршрута.
+1. Начать с [INF Learning Program/README.md](INF%20Learning%20Program/README.md) как с главного маршрута.
 2. При необходимости параллельно использовать [DataBase Fundamentals/README.md](DataBase%20Fundamentals/README.md), если не хватает базы по SQL и PostgreSQL.
 3. При необходимости параллельно использовать [Developers Theory Fundamentals/README.md](Developers%20Theory%20Fundamentals/README.md), если не хватает базы по клиент-серверной архитектуре, HTTP и DOM.
 4. Использовать [Knowledge Base/README.md](Knowledge%20Base/README.md) как дополнительный справочный слой.
@@ -74,7 +74,7 @@
 
 ## Быстрый маршрут
 
-1. Откройте [INF Learning Programm/README.md](INF%20Learning%20Programm/README.md) — это основной трек.
+1. Откройте [INF Learning Program/README.md](INF%20Learning%20Program/README.md) — это основной трек.
 2. Откройте [DataBase Fundamentals/README.md](DataBase%20Fundamentals/README.md), если параллельно нужно подтянуть базы данных.
 3. Откройте [Developers Theory Fundamentals/README.md](Developers%20Theory%20Fundamentals/README.md), если параллельно нужно подтянуть базовую теорию для разработчика.
 4. Откройте [Knowledge Base/README.md](Knowledge%20Base/README.md), если нужен дополнительный слой теории и внешних ресурсов.
