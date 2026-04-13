@@ -7,6 +7,68 @@
 Если вы кандидат, стажер или джун и вам нужно понять, с чего начать:
 - откройте [Start Here for Candidate.md](Start%20Here%20for%20Candidate.md)
 
+## Карта прохождения
+
+```mermaid
+flowchart TD
+    A["Start Here for Candidate"] --> B["INF Learning Programm"]
+    B --> B1["Block 1"]
+    B --> B2["Block 2"]
+    B --> B3["Block 3"]
+    B --> B4["Block 4"]
+    B -. "параллельно при необходимости" .-> C["DataBase Fundamentals"]
+    B -. "параллельно при необходимости" .-> D["Developers Theory Fundamentals"]
+    B -. "справочно" .-> E["Knowledge Base"]
+    F["Internal Materials"] -. "не для кандидата" .-> B
+```
+
+## Нажимаемая карта блоков
+
+### Старт
+
+- [Start Here for Candidate.md](Start%20Here%20for%20Candidate.md) — единая стартовая точка для кандидата.
+- [INF Learning Programm/README.md](INF%20Learning%20Programm/README.md) — основной маршрут программы.
+
+### Основной трек: INF Learning Programm
+
+#### Блок 1. Создание среды и базовые процессы
+
+- [01_Setup_Atlassian_Cloud.md](INF%20Learning%20Programm/01_Setup_Atlassian_Cloud.md)
+- [02_Service_Catalog_Practice.md](INF%20Learning%20Programm/02_Service_Catalog_Practice.md)
+- [03_Incident_Management_Practice.md](INF%20Learning%20Programm/03_Incident_Management_Practice.md)
+- [04_Service_Request_Practice.md](INF%20Learning%20Programm/04_Service_Request_Practice.md)
+- [05_Block_1_SLA_and_Queues_Practice.md](INF%20Learning%20Programm/05_Block_1_SLA_and_Queues_Practice.md)
+- [06_Block_1_Final_Workshop.md](INF%20Learning%20Programm/06_Block_1_Final_Workshop.md)
+
+#### Блок 2. Тестовые данные CMDB
+
+- [07_CMDB_Test_Data_Practice.md](INF%20Learning%20Programm/07_CMDB_Test_Data_Practice.md)
+- [CMDB_Test_Data_Reference.md](INF%20Learning%20Programm/CMDB_Test_Data_Reference.md)
+- [07_Block_2_Final_Workshop.md](INF%20Learning%20Programm/07_Block_2_Final_Workshop.md)
+
+#### Блок 3. CMDB и расширенные ITSM-процессы
+
+- [08_CMDB_Data_Modeling_Practice.md](INF%20Learning%20Programm/08_CMDB_Data_Modeling_Practice.md)
+- [09_CMDB_PostgreSQL_pgAdmin_Practice.md](INF%20Learning%20Programm/09_CMDB_PostgreSQL_pgAdmin_Practice.md)
+- [10_Major_Incident_Practice.md](INF%20Learning%20Programm/10_Major_Incident_Practice.md)
+- [11_Problem_Management_Practice.md](INF%20Learning%20Programm/11_Problem_Management_Practice.md)
+- [12_Change_Management_Practice.md](INF%20Learning%20Programm/12_Change_Management_Practice.md)
+- [13_Block_3_SLA_and_Queues_Practice.md](INF%20Learning%20Programm/13_Block_3_SLA_and_Queues_Practice.md)
+- [14_Block_3_Final_Workshop.md](INF%20Learning%20Programm/14_Block_3_Final_Workshop.md)
+
+#### Блок 4. Аналитика и проектирование интеграций
+
+- [15_Availability_Management_Practice.md](INF%20Learning%20Programm/15_Availability_Management_Practice.md)
+- [16_Integration_Model_Design_Practice.md](INF%20Learning%20Programm/16_Integration_Model_Design_Practice.md)
+- [17_Block_4_SLA_and_Queues_Practice.md](INF%20Learning%20Programm/17_Block_4_SLA_and_Queues_Practice.md)
+- [18_Block_4_Final_Workshop.md](INF%20Learning%20Programm/18_Block_4_Final_Workshop.md)
+
+### Параллельные треки
+
+- [DataBase Fundamentals/README.md](DataBase%20Fundamentals/README.md) — параллельный трек по РБД, SQL и PostgreSQL.
+- [Developers Theory Fundamentals/README.md](Developers%20Theory%20Fundamentals/README.md) — параллельный трек по базовой теории для разработчика.
+- [Knowledge Base/README.md](Knowledge%20Base/README.md) — справочные материалы, словари и внешние ресурсы.
+
 ## Главный маршрут
 
 Основной трек репозитория:
@@ -52,8 +114,6 @@
 - `Developers Theory Fundamentals/` — параллельный трек по базовой теории для разработчика
 - `Knowledge Base/` — дополнительная теоретическая база и словари
 - `Internal Materials/` — внутренние материалы для лидов, экзаменаторов и методической работы
-- `Source Docs/` — исходный контекстный архив документов, не входит в целевой публикуемый контур
-- `Scripts Examples/` — вспомогательные извлечения и примеры, не входит в целевой публикуемый контур
 
 ## Рекомендуемый порядок
 
